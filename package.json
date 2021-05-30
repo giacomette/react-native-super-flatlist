@@ -1,6 +1,6 @@
 {
   "name": "react-native-super-flatlist",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "super flatlist",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
